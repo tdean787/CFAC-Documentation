@@ -1,0 +1,9 @@
+site_name: MS Crop For A Cause
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - WordPress: wordpress.md
+  - Custom Field Suite: customfieldsuite.md
+
+theme: readthedocs
